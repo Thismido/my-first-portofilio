@@ -1,0 +1,30 @@
+:root {
+         --bg: #101010;
+         --surface: #1c1c1c;
+         --muted: #a1a1aa;
+         --accent: #b5f36d;
+
+         --font-heading: 'Space Grotesk', sans-serif;
+         --font-body: 'Inter', sans-serif;
+         --font-mono: 'IBM Plex Mono', monospace;
+}
+body {
+     background: var(--bg);
+     color: var(--text);
+     font-family: var(--font-body);
+     margin: 0;
+}
+html {
+     scroll-behavior: smooth;
+}
+body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--font-body);
+    margin: 0;
+}body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--font-body);
+    margin: 0;
+}
